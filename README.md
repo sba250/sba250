@@ -1,5 +1,4 @@
 <h1 align="center">Shahar Bano </h1>
----
 
 ### 🎓 Education
 **Simon Fraser University**  
