@@ -8,11 +8,7 @@ Joint Major in **Computing Science** & **Molecular Biology & Biochemistry**
 Bioinformatics | Biotechnology | Computational Biology
 
 ### 🎯 Currently
-🔍 *Seeking Summer 2026 internships
-
-### 🤝 Open To
-- Research collaborations
-- Volunteer opportunities  
-
+- Seeking Summer 2026 internships
+- Volunteer opportunities 
 
 ---
