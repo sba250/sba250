@@ -1,4 +1,4 @@
-<h1 align="center">Shahar Bano </h1>
+## Hi! I'm Shahar!
 
 ### 🎓 Education
 **Simon Fraser University**  
